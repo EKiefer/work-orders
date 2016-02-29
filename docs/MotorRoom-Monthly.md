@@ -1,10 +1,12 @@
-The following tasks should be completed at least once every week.
-
-!!! note
-	Some of these tasks are seasonal.
+The following tasks should be completed at least once every month.
 
 ***
++ Dust top of motors and cabinets (i.e. surfaces that do not require a ladder or additional equipment for access).  
++ After weekly sweep, mop floors.
++ After mop, buff floors with motorized buffer.
 
-## Winter
+!!! important
+	Do not mop if the floors have not been swept.
 
-+ Check gutters are not frozen. If they are frozen, gutter heaters may need repair.    
+!!! important
+	Do not buff if the floors have not been mopped.
