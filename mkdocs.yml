@@ -1,0 +1,8 @@
+site_name: Work Orders
+pages:
+- Home: index.md
+- Motor Room: MotorRoom.md
+theme: readthedocs
+
+markdown_extensions:
+  - admonition:
