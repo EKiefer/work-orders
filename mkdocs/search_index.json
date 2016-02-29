@@ -11,9 +11,24 @@
             "title": "Introduction"
         }, 
         {
+            "location": "/MotorRoom-Round/", 
+            "text": "The following tasks should be completed during each observation round.\n\n\n\n\n\n\nPush button on RTU 5 control cabinet (by low lift #1).  \n\n\nRecord the amp readings on the VFD pumps that are operating.  \n\n\nRecord the VFD cabinet temperature reading. \nThis may be performed once a shift.\n  \n\n\nTouch motor in safe location to feel temperature. If motor feels unusually warm, seek management for further instruction.  \n\n\n\n\n\n\nDanger\n\n\nNever put your hand on anything that appears to be unsafe. If there is any doubt, contant management for more instruction.  \n\n\n\n\n\n\nObserve environment for unusual smells (i.e. electrical odors).  \n\n\nObserve environment for unusual noises (i.e. grinding noises, different pitch squeals, etc.).  \n\n\nWalk behind electrical panels in motor room. If there is standing water, contact management for further instruction. \nThis may be performed once a shift.", 
+            "title": "Round"
+        }, 
+        {
             "location": "/MotorRoom-Weekly/", 
-            "text": "The following tasks should be completed at least once every week.\n\n\n\n\nNote\n\n\nSome of these tasks are seasonal.\n\n\n\n\n\n\nWinter\n\n\n\n\nCheck gutters are not frozen. If they are frozen, gutter heaters may need repair.", 
+            "text": "The following tasks should be completed at least once every week.\n\n\n\n\nNote\n\n\nSome of these tasks are seasonal.\n\n\n\n\n\n\nApplicable at All Times\n\n\n\n\nSweep floor.  \n\n\n\n\nSeasonal\n\n\nWinter\n\n\n\n\nCheck gutters are not frozen. If they are frozen, gutter heaters may need repair.", 
             "title": "Weekly"
+        }, 
+        {
+            "location": "/MotorRoom-Weekly/#applicable-at-all-times", 
+            "text": "Sweep floor.", 
+            "title": "Applicable at All Times"
+        }, 
+        {
+            "location": "/MotorRoom-Weekly/#seasonal", 
+            "text": "", 
+            "title": "Seasonal"
         }, 
         {
             "location": "/MotorRoom-Weekly/#winter", 
@@ -21,8 +36,13 @@
             "title": "Winter"
         }, 
         {
+            "location": "/MotorRoom-Monthly/", 
+            "text": "The following tasks should be completed at least once every month.\n\n\n\n\n\n\nDust top of motors and cabinets (i.e. surfaces that do not require a ladder or additional equipment for access).  \n\n\nAfter weekly sweep, mop floors.\n\n\nAfter mop, buff floors with motorized buffer.\n\n\n\n\n\n\nImportant\n\n\nDo not mop if the floors have not been swept.\n\n\n\n\n\n\nImportant\n\n\nDo not buff if the floors have not been mopped.", 
+            "title": "Monthly"
+        }, 
+        {
             "location": "/MotorRoom-Quarterly/", 
-            "text": "The following tasks should be completed at least once every 3 months.\n\n\n\n\n\n\nTest generator by switching from line power to generator power.", 
+            "text": "The following tasks should be completed at least once every 3 months.\n\n\n\n\n\n\nTest generator by switching from line power to generator power.  \n\n\nClean all interior windows with cleaning solution and squeegee--excluding areas that require anything more than a safety step ladder (i.e. 5-step ladder by alum tanks).\n\n\n\n\n\n\nImportant\n\n\nExercise caution when peforming work on safety step ladder.", 
             "title": "Quarterly"
         }, 
         {

@@ -12,7 +12,19 @@
     
         
     <url>
+     <loc>None/MotorRoom-Round/</loc>
+     <lastmod>2016-02-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>None/MotorRoom-Weekly/</loc>
+     <lastmod>2016-02-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/MotorRoom-Monthly/</loc>
      <lastmod>2016-02-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
