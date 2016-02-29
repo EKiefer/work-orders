@@ -1,7 +1,12 @@
 site_name: Work Orders
 pages:
 - Home: index.md
-- Motor Room: MotorRoom.md
+- Motor Room: 
+    - Weekly: MotorRoom-Weekly.md
+    - Monthly: MotorRoom-Monthly.md
+    - Quarterly: MotorRoom-Quarterly.md
+    - Annual: MotorRoom-Annual.md
+    - Trienniel: MotorRoom-Triennial.md
 theme: readthedocs
 
 markdown_extensions:
