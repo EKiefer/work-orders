@@ -8,7 +8,7 @@
   
   
   
-  <title>Monthly - Work Orders</title>
+  <title>Calibrating Hach 1720D Turbidimeter - Work Orders</title>
   
 
   <link rel="shortcut icon" href="../img/favicon.ico">
@@ -23,9 +23,9 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Monthly";
-    var mkdocs_page_input_path = "MotorRoom-Monthly.md";
-    var mkdocs_page_url = "/MotorRoom-Monthly/";
+    var mkdocs_page_name = "Calibrating Hach 1720D Turbidimeter";
+    var mkdocs_page_input_path = "1720D.md";
+    var mkdocs_page_url = "/1720D/";
   </script>
   
   <script src="../js/jquery-2.1.1.min.js"></script>
@@ -81,12 +81,8 @@
 
         
             
-    <li class="toctree-l1 current">
-        <a class="current" href="./">Monthly</a>
-        
-            <ul>
-            
-            </ul>
+    <li class="toctree-l1 ">
+        <a class="" href="../MotorRoom-Monthly/">Monthly</a>
         
     </li>
 
@@ -178,8 +174,42 @@
 
         
             
-    <li class="toctree-l1 ">
-        <a class="" href="../1720D/">Calibrating Hach 1720D Turbidimeter</a>
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Calibrating Hach 1720D Turbidimeter</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#introduction">Introduction</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#summary">Summary</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#materials-equipment-needed">Materials &amp; Equipment Needed</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#personal-safety">Personal Safety</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#operation-warnings">Operation Warnings</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#special-notes">Special Notes</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#procedure">Procedure</a></li>
+                
+            
+                <li class="toctree-l3"><a href="#video">Video</a></li>
+                
+                    <li><a class="toctree-l4" href="#part-1">Part 1</a></li>
+                
+                    <li><a class="toctree-l4" href="#part-2">Part 2</a></li>
+                
+                    <li><a class="toctree-l4" href="#part-3">Part 3</a></li>
+                
+            
+            </ul>
         
     </li>
 
@@ -443,11 +473,11 @@
     
       
         
-          <li>Motor Room &raquo;</li>
+          <li>Calibration of the Turbidimeters &raquo;</li>
         
       
     
-    <li>Monthly</li>
+    <li>Calibrating Hach 1720D Turbidimeter</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -457,21 +487,57 @@
           <div role="main">
             <div class="section">
               
-                <p>The following tasks should be completed at least once every month.</p>
+                <h3 id="introduction">Introduction</h3>
+<p>This procedure will take you through the process of cleaning and calibrating the Hach 1720D Turbidimeter.</p>
 <hr />
+<h3 id="summary">Summary</h3>
+<p>Using all of the materials and equipment needed, the Hach sensor and housing unit will be cleaned and calibrated properly.</p>
+<hr />
+<h3 id="materials-equipment-needed">Materials &amp; Equipment Needed</h3>
 <ul>
-<li>Dust top of motors and cabinets (i.e. surfaces that do not require a ladder or additional equipment for access).  </li>
-<li>After weekly sweep, mop floors.</li>
-<li>After mop, buff floors with motorized buffer.</li>
+<li>Hach 1720D Turbidimeter (instrument)</li>
+<li>20 NTU calibration standard</li>
+<li>2 Sensor calibration cylinders ( 1- standard, 2- reagent grade water)</li>
+<li>Chlorine</li>
+<li>Reagent grade water</li>
+<li>Soap</li>
+<li>Small bucket</li>
+<li>Small cleaning brush</li>
+<li>Paper toweling</li>
 </ul>
-<div class="admonition important">
-<p class="admonition-title">Important</p>
-<p>Do not mop if the floors have not been swept.</p>
-</div>
-<div class="admonition important">
-<p class="admonition-title">Important</p>
-<p>Do not buff if the floors have not been mopped.</p>
-</div>
+<hr />
+<h3 id="personal-safety">Personal Safety</h3>
+<p>When cleaning one of the eight 1720D turbidimeters, there are many low hanging pipes so watch your head or wear a hard hat if that is more comfortable.</p>
+<hr />
+<h3 id="operation-warnings">Operation Warnings</h3>
+<p>If the meter is not cleaned and calibrated correctly it may lead to false readings on the SCADA system.</p>
+<hr />
+<h3 id="special-notes">Special Notes</h3>
+<ul>
+<li>Make sure to control inhibit both on and off each meter on the SCADA system before moving to a different meter so there is not a misread in the system.</li>
+<li>Sensor is very sensitive to movement and vibrations. If the sensor is bumped during calibration, it may cause a misread.</li>
+</ul>
+<hr />
+<h3 id="procedure">Procedure</h3>
+<ol>
+<li>You will need to go to the computer with the SCADA system on it. Once there you will need to find the screen that has the turbidity meters on it and right click on whichever meter you intend on cleaning and calibrating. Once right clicked you will given a small list of options to pick from, you will need to click on the CI option( Control Inhibit). This means that the meter will pause all readings while you conduct the calibration so no false readings are recorded.</li>
+<li>The next step is to ready all of your equipment near the meter you intend working on. Before you start cleaning and calibrating the meter, there is a central meter on the wall that keeps track of all 8 1720D turbidimeters. Once at the homescreen of the central meter, you must find the individual meter you will be working on and select it. Once selected you will follow the options until you reach the calibration confirmation screen.</li>
+<li>Before you confirm calibration you must begin the cleaning process. You must lift the sensor head off of the housing unit which is attached to the wall. Carefully hold the sensor head so no water drips onto the wiring or light bulb. Spray the sensory itself with the reagent grade water and wipe down the sensor with paper towel. Once finished, place the sensor head into the calibration cylinder with the reagent water in it until you are ready to place into the calibration standard.</li>
+<li>Cleaning the housing unit will be your next step. The unit will be about half full with water and most likely at the bottom of the meter there will be some algae growth and build up. You will use the chlorine to destroy the algae growth by squirting some chlorine into the unit and scrubbing the inside with the small brush that you are using. After this you will use some of the soapy water solution that you have made and now clean the inside of the unit with that. Repeat the process of scrubbing the unit with the brush. There is a plug on the bottom of the housing unit that you will unplug which will release all of the soapy water. Leave the unit unplugged and use the bottle of reagent grade water to squirt down the inside walls of the unit which will remove all of the soap residue. Once completed plug the unit back up and it will begin to refill with water.</li>
+<li>Carefully remove the sensor head and place in the calibration cylinder containing the StabCal 20 NTU calibration standard. From there you will go back to the central meter and confirm calibration. This process may take a while to complete but once the number of the screen has stopped very close to 20.0 you know the calibration is complete. If the number is not in a close range to 20.0 the meter will not accept the reading. However if your calibration number is either very close to or on 20.0 the you will be able to choose the confirm calibration option. The meter will have you enter your initials for accountability purposes.</li>
+<li>After completing the calibration you may return to the meter and carefully remove the sensor head from calibration cylinder and place it back into the housing unit. Once this is complete you must return back to the SCADA system and turn off the control inhibitor so the meter can start to collect and record data again.</li>
+</ol>
+<hr />
+<h3 id="video">Video</h3>
+<p><a href="https://www.youtube.com/watch?v=gudzyrPAU0U" title="Calibrating Hach 1720D Turbidimeter, Part 1"><img alt="1" src="http://img.youtube.com/vi/gudzyrPAU0U/0.jpg" /></a></p>
+<h4 id="part-1">Part 1</h4>
+<hr />
+<p><a href="https://www.youtube.com/watch?v=1lKWReTIg9o" title="Calibrating Hach 1720D Turbidimeter, Part 2"><img alt="1" src="http://img.youtube.com/vi/1lKWReTIg9o/0.jpg" /></a></p>
+<h4 id="part-2">Part 2</h4>
+<hr />
+<p><a href="https://www.youtube.com/watch?v=RHnwIT9Pjv8" title="Calibrating Hach 1720D Turbidimeter, Part 3"><img alt="1" src="http://img.youtube.com/vi/RHnwIT9Pjv8/0.jpg" /></a></p>
+<h4 id="part-3">Part 3</h4>
+<hr />
               
             </div>
           </div>
@@ -479,10 +545,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../MotorRoom-Quarterly/" class="btn btn-neutral float-right" title="Quarterly">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../1720_C_Cleaning/" class="btn btn-neutral float-right" title="Cleaning & Calibrating Hach 1720C">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../MotorRoom-Weekly/" class="btn btn-neutral" title="Weekly"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../1720Part1/" class="btn btn-neutral" title="Online Turbidimeter 1720E Calibration and Cleaning Procedures (PART 1)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -508,10 +574,10 @@
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../MotorRoom-Weekly/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../1720Part1/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../MotorRoom-Quarterly/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../1720_C_Cleaning/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
