@@ -6,33 +6,21 @@ pages:
     - Weekly: MotorRoom-Weekly.md
     - Monthly: MotorRoom-Monthly.md
     - Quarterly: MotorRoom-Quarterly.md
-    - Annual: MotorRoom-Annual.md
     - Trienniel: MotorRoom-Triennial.md
+    - Annual: MotorRoom-Annual.md
 - Daily Chemical Analysis:
-    - Hardness Test: HardnessTest.md 
-    - Total Alkalinity Test: Alkalinity.md
-    - pH Test: phTest.md
+    - Alkalinity Test: Alkalinity.md
     - Fluoride Analysis: FluorideAnalysis.md
+    - Hardness Test: HardnessTest.md 
+    - pH Test: phTest.md
     - Phosphorous Test: Phosphorous.md 
     - UV Test: UVTest.md     
-- Calibration of the Turbidimeters: 
-    - Online Turbidimeter 1720E Calibration and Cleaning Procedures (PART 1): 1720Part1.md 
-    - Calibrating Hach 1720D Turbidimeter: 1720D.md 
+- Turbidimeter Calibration:   
     - Cleaning & Calibrating Hach 1720C: 1720_C_Cleaning.md
     - Cleaning & Calibrating Hach 1720D: 1720_D_Cleaning.md
-    - Cleaning & Calibrating Hach 1720E: 1720_E_Cleaning.md
-- Miscellaneous: 
-    - Hourly Rounds:  HourlyRounds.md
-    - SWAN Chlorine Analyzer Calibration: SwanCalibration.md
-    - Changing & Calibrating Chlorine Analyzer: Cl2Calibration.md 
-    - How to Calibrate The Chlorine Analyzer (CL 17): CL17_Calibration.md 
-    - Back Washing Filters, "Manual Control": Backwash.md
-    - Chlorine Residual Testing w/ DR5000: DR5000_ResidualTest.md
-    - Total Chlorine: TotalChlorine.md 
-    - Copper Test: CopperTest.md
-    - Detergent Test: DetergentTest.md
-    - Phenol's Test: PhenolTest.md  
-    - Untitled: Untitled.md 
+    - Cleaning & Calibrating Hach 1720E (Part 1 of 2): 1720_E_Part1.md
+    - Cleaning & Calibrating Hach 1720E (Part 2 of 2): 1720_E_Part2.md
+    - Calibrating Hach 1720D Turbidimeter: 1720D.md
 - Etse's Videos: 
     - Fluoride Test (Etse): FluorideTestEtse.md 
     - Chlorine Analysis with DR5000 (Etse): ChlorineTestEtse.md 
@@ -41,16 +29,41 @@ pages:
     - HACH DR5000 UV, Calibration Test for Tap Water (ETSE): DR5000_Etse.md 
     - 2100 AN Turbidimeter Calibration (Etse): 2100Etse.md
     - Balance Calibration Check (Etse): BalanceEtse.md 
-    - Online Turbidimeter 1720E Calibration (ETSE): 1720Etse.md 
     - Phosphorous Test, Tap Water (Etse): PhosphorousTapEtse.md 
     - Total Alkalinity Test Performance (Etse): TotalAlkalinityEtse.md 
     - Total Hardness Test Performance (Etse): TotalHardnessEtse.md 
-    - Turbidimeter 1720C Calibration (Etse): 1720CCalibrationEtse.md 
+    - Turbidimeter 1720C Calibration (Etse): 1720_C_Etse.md 
     - Use of Quanti-Tray Sealer (Etse): QuantiTrayEtse.md 
     - Chlorine Analyzer Calibration (Etse): ChlorineCalibrationEtse.md
-- Operations: 
-    - End of the Month Numbers: EndOfMonth_Numbers.md 
-    - High Service Pumping and Distrubution Operations (General): HS_PumpDistro_Operations.md
+- Standard Operating Procedures: 
+    - Daily Tests and Duties: 
+        - Shift Duties: Shift_Duties.md 
+        - Routine Chemical Analysis: Chem_Analysis.md 
+        - Bacteriological Examination & Quality: Bacteria.md  
+        - Quality Assurance Plan, SOP's for Bacteriological Analysis: QA_SOP_Bacteria.md 
+        - End of Day Paper Work: PaperWork.md 
+    - Distribution Sampling: 
+        - Distribution Sample Directions: Distribution_Sample_Directions.md
+        - Distribution Sites: Distribution_Sites.md
+        - Distribution Sampling, Daily: Distribution_Sampling_Daily.md
+        - Distribution Sampling, Bi-Weekly: Distribution_Sampling_BiWeekly.md
+        - Distribution Sampling, Tri-Weekly: Distribution_Sampling_TriWeekly.md 
+    - Filter Operations: 
+        - Treating Processes: Filter_Operations_Treating.md
+        - Backwashing: Filter_Operations_Backwash.md
+        - Filter Backwash (Brooks): Backwash_Operations.md 
+    - Miscellaneous Operations: 
+        - End of the Month Numbers: EndOfMonth_Numbers.md 
+        - High Service Pumping and Distrubution Operations (General): HS_PumpDistro_Operations.md
+        - Clearing Klode Intake: Klode_Clearing.md 
+        - Procedure for NW Reservoir Inspection: Reservoir_Inspection.md 
+    - Memos: 
+        - Energy Conservation Tips: Energy_Conservation_Tips.md 
+        - Gasoline & Diesel Fueling Procedure: Gasoline_Diesel.md 
+        - New Spore Suspensions (Prospore2): Prospore2.md 
+        - WE Energy Samples: WE_Energy_Samples.md 
+        - Chemical Transfer Procedure: Chemical_Transfer_SOP.md 
+        - Chemical Transfers Calculation Sheet: Chemical_Transfer_Calculations.md 
 theme: readthedocs
 markdown_extensions:
   - admonition:

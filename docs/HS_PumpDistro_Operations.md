@@ -68,7 +68,15 @@ Under very rare circumstances, the high service pumps may be isolated to deal wi
 
 - Energy Management
 
-Energy management is important in our attempt to minimize electical cost. Various setting and schedules are designed 
+Energy management is important in our attempt to minimize electical cost. Various setting and schedules are designed not only to address water storage and pressure issues, they are designed to minimize electrical consumption. Every attempt should be made to use 300kW or less while on-peak at the Bender facility (low demand periods). We are charged a fee for every kW that exceeds 300- done on a monthly basis. Every attempt should be made to use the least amount of energy at Klode (there is no kW target at Klode). 
 
+Both Bender and Klode facilities are charged a fee based on the greatest electrical demand over the past 12 months- regardless of on-peak or off-peak. In other words, running an extra 100 kW for 10 minutes could result in elevated fees for an entire year!
 
+Stategies for minimizing elecrical demand include: using the towers to steady the flow, starting and stopping equipment off-peak (i.e. UV system), filling towers at night, avoid pump maintenance/testing during on-peak, running the generator whenever there is an expectation of high energy use, and running one high pump whenever possible (do not run additional high service pumps during on-peak unless absolutely necessary). 
+
+Note- on-peak at Bender is from 10:00am to 10:00pm, Monday through Friday. On-peak at Klode is 9:00am to 9:00pm, Mondary through Friday. Posted holidays are excluded from on-peak periods. 
+***
+
+### Special Notes
+None at this time. 
 ***

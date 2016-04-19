@@ -1,31 +1,23 @@
-### Introduction
+###Introduction
 
 ***
 
-### Summary
+###Operation Warnings
 
 ***
 
-### Materials & Equipment Needed
+###Personal Safety
 
 ***
 
-### Personal Safety
+###Materials, Supplies & Equipment
 
 ***
 
-### Operation Warnings
+###Standard Operating Procedure
 
 ***
 
-### Special Notes
+###Special Notes
 
 ***
-
-### Procedure
-
-***
-
-### Video
-
-[![1](http://img.youtube.com/vi/qbFyDI7O11c/0.jpg)](https://www.youtube.com/watch?v=qbFyDI7O11c "")
