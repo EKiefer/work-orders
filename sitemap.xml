@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,37 +13,37 @@
         
     <url>
      <loc>None/MotorRoom-Round/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/MotorRoom-Weekly/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/MotorRoom-Monthly/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/MotorRoom-Quarterly/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/MotorRoom-Annual/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/MotorRoom-Triennial/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/MotorRoom-Annual/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -52,38 +52,38 @@
     
         
     <url>
-     <loc>None/HardnessTest/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>None/Alkalinity/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/phTest/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/FluorideAnalysis/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/HardnessTest/</loc>
+     <lastmod>2016-04-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/phTest/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/Phosphorous/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/UVTest/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -92,102 +92,32 @@
     
         
     <url>
-     <loc>None/1720Part1/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/1720D/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>None/1720_C_Cleaning/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/1720_D_Cleaning/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/1720_E_Cleaning/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/HourlyRounds/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None/1720_E_Part1/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/SwanCalibration/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None/1720_E_Part2/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/Cl2Calibration/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/CL17_Calibration/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/Backwash/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/DR5000_ResidualTest/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/TotalChlorine/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/CopperTest/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/DetergentTest/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/PhenolTest/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/Untitled/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None/1720D/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -197,85 +127,79 @@
         
     <url>
      <loc>None/FluorideTestEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/ChlorineTestEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/AutoclaveEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/AgarEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/DR5000_Etse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/2100Etse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/BalanceEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/1720Etse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/PhosphorousTapEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/TotalAlkalinityEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/TotalHardnessEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/1720CCalibrationEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None/1720_C_Etse/</loc>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/QuantiTrayEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/ChlorineCalibrationEtse/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <lastmod>2016-04-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -284,14 +208,32 @@
     
         
     <url>
-     <loc>None/EndOfMonth_Numbers/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/HS_PumpDistro_Operations/</loc>
-     <lastmod>2016-04-06</lastmod>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
